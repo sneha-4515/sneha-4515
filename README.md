@@ -3,11 +3,9 @@
 
 
 <!--
-**sneha-4515/sneha-4515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sneha-4515/sneha-4515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-# Portfolio
-
-💻 Sneha | Data Science Enthusiast
+💻 Data Science Enthusiast
 👋 Hi there! I’m Sneha, an MCA graduate passionate about using data to uncover insights and build intelligent solutions.
 I’m focused on developing expertise in Machine Learning, Data Analytics, and Predictive Modeling — translating data into meaningful business value through structured analysis and modern tools.
 
