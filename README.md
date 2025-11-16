@@ -6,7 +6,7 @@
 **sneha-4515/sneha-4515** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 💻 Data Science Enthusiast
-👋 Hi there! I’m Sneha, an MCA graduate passionate about using data to uncover insights and build intelligent solutions.
+An MCA graduate passionate about using data to uncover insights and build intelligent solutions.
 I’m focused on developing expertise in Machine Learning, Data Analytics, and Predictive Modeling — translating data into meaningful business value through structured analysis and modern tools.
 
 🚀 About Me
@@ -41,10 +41,7 @@ Clustered customers using K-Means based on spending patterns and demographics.	C
 •	Expanding my portfolio with machine learning and forecasting projects.
 •	Building reusable EDA and ML pipelines for efficiency and consistency.
 •	Preparing for data science interviews with practical case studies and Kaggle problems.
-
-📈 GitHub Stats
- 
- 
+  
 🤝 Connect With Me
  
  
@@ -52,6 +49,5 @@ Clustered customers using K-Means based on spending patterns and demographics.	C
 
 ✨ “Turning data into decisions through curiosity, logic, and code.”
 
-It’ll include the ideal folder organization and a ready-to-edit README you can reuse for all your projects.
 
 
