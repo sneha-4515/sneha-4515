@@ -17,7 +17,7 @@ I’m focused on developing expertise in Machine Learning, Data Analytics, and P
 
 •	🧩 Core Skills: Data Cleaning, Exploratory Data Analysis (EDA), Feature Engineering, Model Evaluation
 
-•	🌱 Currently Learning: Advanced ML Techniques, Model Deployment (Streamlit & Hugging Face Spaces)
+•	🌱 Currently Learning: Advanced ML Techniques, Model Deployment (Streamlit)
 
 •	🎯 Career Goal: To grow as a Data Scientist and contribute to data-driven projects with real-world impact
 
@@ -31,7 +31,7 @@ Data Analysis	Pandas, NumPy, Matplotlib, Seaborn
 
 Machine Learning	Scikit-learn, XGBoost, Prophet
 
-Visualization	Plotly, Tableau (Basic), Power BI (Basic)
+Visualization	Tableau (Basic), Power BI (Basic)
 
 Version Control	Git, GitHub
 
@@ -59,7 +59,7 @@ Clustered customers using K-Means based on spending patterns and demographics.	C
 
 •	Expanding my portfolio with machine learning and forecasting projects.
 •	Building reusable EDA and ML pipelines for efficiency and consistency.
-•	Preparing for data science interviews with practical case studies and Kaggle problems.
+•	Preparing for data science interviews with practical case studies.
   
 🤝 Connect With Me
 
